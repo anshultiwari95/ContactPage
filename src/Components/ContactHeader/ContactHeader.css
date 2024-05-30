@@ -1,0 +1,26 @@
+.bdy{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding:5rem 10rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1{
+    font-weight: 800;
+    font-size:48px;
+    }
+
+.description{
+    font-weight: 600;
+    font-size: 16px;
+    color:#5A5959;
+}    
+
+
+      
+
+    
+
+    
