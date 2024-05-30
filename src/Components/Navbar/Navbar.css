@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content:space-between;
+    padding: 0 8px;
+    height: 72px;    
+   
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+    gap:24px;  
+}
+a{
+    color: black;
+}
